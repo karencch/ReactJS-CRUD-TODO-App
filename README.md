@@ -1,6 +1,8 @@
-This project was a tutorial by "https://github.com/jamezmca/reactjs-todolist"
+Description: This project was done following a tutorial by "https://github.com/jamezmca/reactjs-todolist"
 
-What I learned:
+Goal: Practice Basic React concepts and create a To-Do List application
+
+What I learned/practiced:
 (1) Basic React structure (i.e., App.jsx -> main.jsx as 'root'); 
 (2) React creates prop object; 
 (3) How to pass props from parent to children; 
