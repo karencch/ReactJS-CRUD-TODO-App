@@ -1,8 +1,9 @@
-# React + Vite
+This project was a tutorial by "https://github.com/jamezmca/reactjs-todolist"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+What I learned:
+*Basic React structure (i.e., App.jsx -> main.jsx as 'root')
+*React creates prop object
+*How to pass props from parent to children.
+*How to use custom fonts 
+*useState hook manages state of the component
+*useEffect hook kind of makes side effects (listens for events and runs code when that event happens). In this app, we used useEffect to persist our list even with page refresh.
