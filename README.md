@@ -6,4 +6,4 @@ What I learned:
 (3) How to pass props from parent to children; 
 (4) How to use custom fonts; 
 (5) useState hook manages state of the component; 
-(6) useEffect hook kind of makes side effects (listens for events and runs code when that event happens). In this app, we used useEffect to persist our list even with page refresh. 
+(6) useEffect hook kind of makes side effects (listens for events and runs code when that event happens). In this app, useEffect persists the list even with page refresh. 
